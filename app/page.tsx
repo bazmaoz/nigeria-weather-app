@@ -261,7 +261,7 @@ export default function Home() {
       <div className={styles.hero}>
         <div className={styles.header}>
           <div>
-            <h1 className={styles.title}>Nigeria Weather</h1>
+            <h1 className={styles.title}>Weather Worldwide</h1>
             <p className={styles.subtitle}>Weather Web-app Created By Abdulbasit</p>
           </div>
 
